@@ -1,0 +1,35 @@
+h1 {
+    font-weight: bold;
+    font-size: 100px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.firstRecipe {
+    float: left;
+    margin: 15px 15px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif
+}
+
+#firstRecipeName {
+    color: red;
+}
+
+.secondRecipe
+ {
+    float: left;
+    margin: 15px 330px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.thirdRecipe {
+    float: left;
+    margin: 15px 15px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif
+}
